@@ -63,7 +63,5 @@
 
  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EGuseinov&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="eguseinov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EGuseinov&show_icons=true&locale=en&cache_seconds=86400" alt="eguseinov" /></p>
 
